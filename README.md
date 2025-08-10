@@ -1,4 +1,12 @@
-## Hi there 👋
+Project Title
+Learning Git
+
+License:
+https://github.com/simon-hayes/simon-hayes/blob/main/LICENSE
+
+
+
+
 
 <!--
 **simon-hayes/simon-hayes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
