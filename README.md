@@ -4,6 +4,8 @@ Learning Git
 License:
 https://github.com/simon-hayes/simon-hayes/blob/main/LICENSE
 
+status:
+- 🌱 I’m currently learning ...
 
 
 
